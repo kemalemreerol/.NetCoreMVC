@@ -1,0 +1,55 @@
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.AssemblyInfo.cs
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.DataAccess.deps.json
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.DataAccess.runtimeconfig.json
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.DataAccess.dll
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.DataAccess.pdb
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.Models.dll
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.Models.pdb
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.csproj.CopyComplete
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.dll
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\refint\KitaplikUygulama.DataAccess.dll
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.pdb
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.genruntimeconfig.cache
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\ref\KitaplikUygulama.DataAccess.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.DataAccess.deps.json
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.DataAccess.runtimeconfig.json
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.DataAccess.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.DataAccess.pdb
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.Models.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.Models.pdb
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.csproj.AssemblyReference.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.AssemblyInfoInputs.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.AssemblyInfo.cs
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.csproj.CopyComplete
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\refint\KitaplikUygulama.DataAccess.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.pdb
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.genruntimeconfig.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\ref\KitaplikUygulama.DataAccess.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI (Hocanın projesi)\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI (Hocanın projesi)\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI (Hocanın projesi)\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\refint\KitaplikUygulama.DataAccess.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI (Hocanın projesi)\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.pdb
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.DataAccess.deps.json
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.DataAccess.runtimeconfig.json
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.DataAccess.dll
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.DataAccess.pdb
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.Models.dll
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\bin\Debug\net6.0\KitaplikUygulama.Models.pdb
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.AssemblyInfo.cs
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.csproj.CopyComplete
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.dll
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\refint\KitaplikUygulama.DataAccess.dll
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.pdb
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\KitaplikUygulama.DataAccess.genruntimeconfig.cache
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.DataAccess\obj\Debug\net6.0\ref\KitaplikUygulama.DataAccess.dll

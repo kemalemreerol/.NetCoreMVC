@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "32iMaKqeKjP5gxB89UvS6QK2WSEJTpbrct/aaShHs+YMPk+gMFeLC8FVPWcrg/rn/A1Etol1kYBG3WqzYQ6OHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\YAZILIM\\Clone\\Week1-14.09.22\\.NET CORE\\ASP.NET CORE BİREYSEL HER ŞEY\\PROJE KONU ANLATIMI\\KitaplikUygulama\\KitaplikUygulama.Utility\\KitaplikUygulama.Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kemre\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\kemre\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\kemre\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

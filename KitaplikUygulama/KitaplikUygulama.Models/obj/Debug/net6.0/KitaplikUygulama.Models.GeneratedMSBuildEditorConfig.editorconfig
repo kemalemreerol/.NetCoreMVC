@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = KitaplikUygulama.Models
+build_property.ProjectDir = C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.Models\

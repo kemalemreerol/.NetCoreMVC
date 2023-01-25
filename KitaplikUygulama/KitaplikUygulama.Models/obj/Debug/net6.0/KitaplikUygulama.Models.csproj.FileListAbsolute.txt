@@ -1,0 +1,41 @@
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.Models\bin\Debug\net6.0\KitaplikUygulama.Models.deps.json
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.Models\bin\Debug\net6.0\KitaplikUygulama.Models.dll
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.Models\bin\Debug\net6.0\KitaplikUygulama.Models.pdb
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.csproj.AssemblyReference.cache
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.AssemblyInfoInputs.cache
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.AssemblyInfo.cs
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.dll
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\refint\KitaplikUygulama.Models.dll
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.pdb
+C:\Users\Wissen\Desktop\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\ref\KitaplikUygulama.Models.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.Models\bin\Debug\net6.0\KitaplikUygulama.Models.deps.json
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.Models\bin\Debug\net6.0\KitaplikUygulama.Models.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.Models\bin\Debug\net6.0\KitaplikUygulama.Models.pdb
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.csproj.AssemblyReference.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.AssemblyInfoInputs.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.AssemblyInfo.cs
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.csproj.CoreCompileInputs.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\refint\KitaplikUygulama.Models.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.pdb
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\ref\KitaplikUygulama.Models.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI (Hocanın projesi)\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.csproj.AssemblyReference.cache
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI (Hocanın projesi)\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI (Hocanın projesi)\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI (Hocanın projesi)\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\refint\KitaplikUygulama.Models.dll
+C:\Users\kemre\OneDrive\Masaüstü\YAZILIM\Clone\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI (Hocanın projesi)\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.pdb
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.Models\bin\Debug\net6.0\KitaplikUygulama.Models.deps.json
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.Models\bin\Debug\net6.0\KitaplikUygulama.Models.dll
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.Models\bin\Debug\net6.0\KitaplikUygulama.Models.pdb
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.csproj.AssemblyReference.cache
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.AssemblyInfoInputs.cache
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.AssemblyInfo.cs
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.dll
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\refint\KitaplikUygulama.Models.dll
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\KitaplikUygulama.Models.pdb
+C:\Users\Wissen\Desktop\Clon Data\Weeks\Week1-14.09.22\.NET CORE\ASP.NET CORE BİREYSEL HER ŞEY\PROJE KONU ANLATIMI\KitaplikUygulama\KitaplikUygulama.Models\obj\Debug\net6.0\ref\KitaplikUygulama.Models.dll
