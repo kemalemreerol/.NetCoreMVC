@@ -6245,11 +6245,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\MVC PROJE KEE\\BlogSiteDesign\\BlogApi\\BlogApi.csproj",
+      "projectUniqueName": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\YAZILIM\\kemalemreerol\\.NetCoreMVC\\BlogSiteDesign\\BlogSiteDesign\\BlogApi\\BlogApi.csproj",
       "projectName": "BlogApi",
-      "projectPath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\MVC PROJE KEE\\BlogSiteDesign\\BlogApi\\BlogApi.csproj",
+      "projectPath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\YAZILIM\\kemalemreerol\\.NetCoreMVC\\BlogSiteDesign\\BlogSiteDesign\\BlogApi\\BlogApi.csproj",
       "packagesPath": "C:\\Users\\kemre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\MVC PROJE KEE\\BlogSiteDesign\\BlogApi\\obj\\",
+      "outputPath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\YAZILIM\\kemalemreerol\\.NetCoreMVC\\BlogSiteDesign\\BlogSiteDesign\\BlogApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kemre\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DyBMxHyTW7o4DQdur3cB7wQpZjsZlYaomFlVhV8bdTMtu5AM0y7uYdp8n2VYffYaBkAd49CwKzCMy0J8Fa05yA==",
+  "dgSpecHash": "eBOf8Y3Pxm5xQuKXPyuSPvBFPZWMs2Xen1FP/VFmgaCq/uBElttYoTEZwqjw2heSF8E5mwBJCnUiIKmuHBpThA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\MVC PROJE KEE\\BlogSiteDesign\\EntitiyLayer\\EntitiyLayer.csproj",
+  "projectFilePath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\YAZILIM\\kemalemreerol\\.NetCoreMVC\\BlogSiteDesign\\BlogSiteDesign\\EntitiyLayer\\EntitiyLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kemre\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\kemre\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xduTT24lKYiKEMytpp2oPpsgg0wKk9wKAaq0mdg4cZk7FYTuyPTtGpgSbojMp8yoe+zcX+rcWnDvnGBwimFeCQ==",
+  "dgSpecHash": "gpLNTqpDX7SeE4GzlhK/2kThohSZr+nY7l1YNfv+zk35ItOfgqT+VYNjSRSHYxcx9M0RPZxcitlFLUgTxDPmMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\MVC PROJE KEE\\BlogSiteDesign\\BlogSiteDesign\\BlogSiteDesign.csproj",
+  "projectFilePath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\YAZILIM\\kemalemreerol\\.NetCoreMVC\\BlogSiteDesign\\BlogSiteDesign\\BlogSiteDesign\\BlogSiteDesign.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kemre\\.nuget\\packages\\closedxml\\0.97.0\\closedxml.0.97.0.nupkg.sha512",
     "C:\\Users\\kemre\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",

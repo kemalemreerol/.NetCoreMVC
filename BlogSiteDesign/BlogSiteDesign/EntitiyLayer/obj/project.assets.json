@@ -1906,11 +1906,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\MVC PROJE KEE\\BlogSiteDesign\\EntitiyLayer\\EntitiyLayer.csproj",
+      "projectUniqueName": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\YAZILIM\\kemalemreerol\\.NetCoreMVC\\BlogSiteDesign\\BlogSiteDesign\\EntitiyLayer\\EntitiyLayer.csproj",
       "projectName": "EntitiyLayer",
-      "projectPath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\MVC PROJE KEE\\BlogSiteDesign\\EntitiyLayer\\EntitiyLayer.csproj",
+      "projectPath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\YAZILIM\\kemalemreerol\\.NetCoreMVC\\BlogSiteDesign\\BlogSiteDesign\\EntitiyLayer\\EntitiyLayer.csproj",
       "packagesPath": "C:\\Users\\kemre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\MVC PROJE KEE\\BlogSiteDesign\\EntitiyLayer\\obj\\",
+      "outputPath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\YAZILIM\\kemalemreerol\\.NetCoreMVC\\BlogSiteDesign\\BlogSiteDesign\\EntitiyLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kemre\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -10632,11 +10632,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\MVC PROJE KEE\\BlogSiteDesign\\BlogSiteDesign\\BlogSiteDesign.csproj",
+      "projectUniqueName": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\YAZILIM\\kemalemreerol\\.NetCoreMVC\\BlogSiteDesign\\BlogSiteDesign\\BlogSiteDesign\\BlogSiteDesign.csproj",
       "projectName": "BlogSiteDesign",
-      "projectPath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\MVC PROJE KEE\\BlogSiteDesign\\BlogSiteDesign\\BlogSiteDesign.csproj",
+      "projectPath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\YAZILIM\\kemalemreerol\\.NetCoreMVC\\BlogSiteDesign\\BlogSiteDesign\\BlogSiteDesign\\BlogSiteDesign.csproj",
       "packagesPath": "C:\\Users\\kemre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\MVC PROJE KEE\\BlogSiteDesign\\BlogSiteDesign\\obj\\",
+      "outputPath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\YAZILIM\\kemalemreerol\\.NetCoreMVC\\BlogSiteDesign\\BlogSiteDesign\\BlogSiteDesign\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kemre\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10653,17 +10653,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\kemre\\OneDrive\\Masaüstü\\MVC PROJE KEE\\BlogSiteDesign\\BlogApi\\BlogApi.csproj": {
-              "projectPath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\MVC PROJE KEE\\BlogSiteDesign\\BlogApi\\BlogApi.csproj"
+            "C:\\Users\\kemre\\OneDrive\\Masaüstü\\YAZILIM\\kemalemreerol\\.NetCoreMVC\\BlogSiteDesign\\BlogSiteDesign\\BlogApi\\BlogApi.csproj": {
+              "projectPath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\YAZILIM\\kemalemreerol\\.NetCoreMVC\\BlogSiteDesign\\BlogSiteDesign\\BlogApi\\BlogApi.csproj"
             },
-            "C:\\Users\\kemre\\OneDrive\\Masaüstü\\MVC PROJE KEE\\BlogSiteDesign\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\MVC PROJE KEE\\BlogSiteDesign\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\kemre\\OneDrive\\Masaüstü\\YAZILIM\\kemalemreerol\\.NetCoreMVC\\BlogSiteDesign\\BlogSiteDesign\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\YAZILIM\\kemalemreerol\\.NetCoreMVC\\BlogSiteDesign\\BlogSiteDesign\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "C:\\Users\\kemre\\OneDrive\\Masaüstü\\MVC PROJE KEE\\BlogSiteDesign\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\MVC PROJE KEE\\BlogSiteDesign\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\kemre\\OneDrive\\Masaüstü\\YAZILIM\\kemalemreerol\\.NetCoreMVC\\BlogSiteDesign\\BlogSiteDesign\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\YAZILIM\\kemalemreerol\\.NetCoreMVC\\BlogSiteDesign\\BlogSiteDesign\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "C:\\Users\\kemre\\OneDrive\\Masaüstü\\MVC PROJE KEE\\BlogSiteDesign\\EntitiyLayer\\EntitiyLayer.csproj": {
-              "projectPath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\MVC PROJE KEE\\BlogSiteDesign\\EntitiyLayer\\EntitiyLayer.csproj"
+            "C:\\Users\\kemre\\OneDrive\\Masaüstü\\YAZILIM\\kemalemreerol\\.NetCoreMVC\\BlogSiteDesign\\BlogSiteDesign\\EntitiyLayer\\EntitiyLayer.csproj": {
+              "projectPath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\YAZILIM\\kemalemreerol\\.NetCoreMVC\\BlogSiteDesign\\BlogSiteDesign\\EntitiyLayer\\EntitiyLayer.csproj"
             }
           }
         }

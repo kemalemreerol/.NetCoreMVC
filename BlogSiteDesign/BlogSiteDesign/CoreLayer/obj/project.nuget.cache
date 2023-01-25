@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zJsPsz0lomDfsbCBIZ7r5A6+3fdHFXpbP7AmaDaJopd8wKqUJgHyD9ajrpzWC94OLMkYU3ZcjAIfqQyTWBSlKQ==",
+  "dgSpecHash": "v8jTgGsIL2ekMMB5sL3dNQ2ll+GXDM1Rlfk/swMAM2a63wM9YSvqUq6BaOckU55T9HF9CjE2SVas9+pF0TGX0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\MVC PROJE KEE\\BlogSiteDesign\\CoreLayer\\CoreLayer.csproj",
+  "projectFilePath": "C:\\Users\\kemre\\OneDrive\\Masaüstü\\YAZILIM\\kemalemreerol\\.NetCoreMVC\\BlogSiteDesign\\BlogSiteDesign\\CoreLayer\\CoreLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kemre\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
     "C:\\Users\\kemre\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.3\\fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
