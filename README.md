@@ -3,7 +3,7 @@
 ---
 
 ```
-BlogSiteDesign Projem .NetCore 5.0 ile Geliştirilmiştir. Projemi inceleyecek olanlar .NetCore 5.0 ile inceleyebilirler. 
+##BlogSiteDesign Projem .NetCore 5.0 ile Geliştirilmiştir. Projemi inceleyecek olanlar .NetCore 5.0 ile inceleyebilirler. 
 ```
 
 ```
@@ -17,7 +17,7 @@ BlogSiteDesign Projem .NetCore 5.0 ile Geliştirilmiştir. Projemi inceleyecek o
 ---
 
 ```
-BulkyBook Projem .NetCore 6.0 ile geliştirilmiştir. Projemi inceleyecek olanlar .NetCore 6.0 sürümü ile inceleyebilirler.
+## BulkyBook Projem .NetCore 6.0 ile geliştirilmiştir. Projemi inceleyecek olanlar .NetCore 6.0 sürümü ile inceleyebilirler.
 ```
 ```
 Kitapların sergilendiği her bir kitapın detay sayfasının olduğu. Kitaplara ait verilerin ekleme, silme ve güncelleme işlemlerinin yapıldığı bir web sitesi tasarımıdır.
@@ -25,7 +25,7 @@ Kitapların sergilendiği her bir kitapın detay sayfasının olduğu. Kitaplara
 ---
 
 ```
-KitaplıkUygulama Projem .NetCore 6.0 ile geliştirilmiştir. Projemi inceleyecek olanlar .NetCore 6.0 sürümü ile inceleyebilirler.
+## KitaplıkUygulama Projem .NetCore 6.0 ile geliştirilmiştir. Projemi inceleyecek olanlar .NetCore 6.0 sürümü ile inceleyebilirler.
 ```
 ```
 Kitapların sergilendiği her bir kitapın detay sayfasının olduğu. Kitaplara ait verilerin ekleme, silme ve güncelleme işlemlerinin yapıldığı bir web sitesi tasarımıdır.
