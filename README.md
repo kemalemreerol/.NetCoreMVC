@@ -1,4 +1,4 @@
-# .NetCoreMVC
+# Projelere Ait Detaylı Bilgiler
 
 ---
 
