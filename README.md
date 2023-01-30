@@ -18,10 +18,14 @@
 
 ```
 Kitapların sergilendiği her bir kitapın detay sayfasının olduğu. Kitaplara ait verilerin ekleme, silme ve güncelleme işlemlerinin yapıldığı bir web sitesi tasarımıdır.
+-Entity Framework kütüphanesi kullanılmıştır.
+-Html Css Boostrap kullanılmıştır.
 ```
 ---
 ## KitaplıkUygulama Projem .NetCore 6.0 ile geliştirilmiştir. Projemi inceleyecek olanlar .NetCore 6.0 sürümü ile inceleyebilirler.
 ```
 Kitapların sergilendiği her bir kitapın detay sayfasının olduğu. Kitaplara ait verilerin ekleme, silme ve güncelleme işlemlerinin yapıldığı bir web sitesi tasarımıdır.
+-Entity Framework kütüphanesi kullanılmıştır.
+-Html Css Boostrap kullanılmıştır.
 ```
 ---
