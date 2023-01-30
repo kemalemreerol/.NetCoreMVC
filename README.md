@@ -7,11 +7,11 @@ BlogSiteDesign Projem .NetCore 5.0 ile Geliştirilmiştir. Projemi inceleyecek o
 ```
 
 ```
-*Projemde Yazar Paneli, Admin Paneli ve Blog Sayfası olmak üzere 3 ana bölümden oluşur. Yazarlar blog ekleme çıkarma silme güncelleme işlemleri yapabilir. Siteye giriş yapılmadığı takdirde bloglara erişim yoktur. Giriş yapıldığı zaman rollere göre Panel sayfalarına yönlendirmektedir. 
-*Entitiy Framework kullanılarak yapılmıştır. 
-*Identity kütüphanesi kullanılmıştır.
-*API kullanılmıştır.
-*Javascript ve jQuery kullanılarak veri çekme işlemleri yapılmıştır.
+-Projemde Yazar Paneli, Admin Paneli ve Blog Sayfası olmak üzere 3 ana bölümden oluşur. Yazarlar blog ekleme çıkarma silme güncelleme işlemleri yapabilir. Siteye giriş yapılmadığı takdirde bloglara erişim yoktur. Giriş yapıldığı zaman rollere göre Panel sayfalarına yönlendirmektedir. 
+-Entitiy Framework kullanılarak yapılmıştır. 
+-Identity kütüphanesi kullanılmıştır.
+-API kullanılmıştır.
+-Javascript ve jQuery kullanılarak veri çekme işlemleri yapılmıştır.
 ( Bu projemi geliştirmekte yardımcı olan Murat Yücedağ Hocama Teşekkürlerimi Sunarım.)
 ```
 ---
