@@ -19,6 +19,7 @@ BlogSiteDesign Projem .NetCore 5.0 ile Geliştirilmiştir. Projemi inceleyecek o
 ```
 BulkyBook Projem .NetCore 6.0 ile geliştirilmiştir. Projemi inceleyecek olanlar .NetCore 6.0 sürümü ile inceleyebilirler.
 ```
+---
 
 ```
 KitaplıkUygulama Projem .NetCore 6.0 ile geliştirilmiştir. Projemi inceleyecek olanlar .NetCore 6.0 sürümü ile inceleyebilirler.
